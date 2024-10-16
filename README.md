@@ -1,6 +1,6 @@
 # Hello, I'm Katyanne Roberta Nunes 👋
 
-I'm a Computer Science student, starting my programming journey in 2024. I've completed several bootcamps focused on backend development using Java and Spring Boot. I'm always eager to learn more and improve my skills in the tech field. Feel free to explore my projects and follow along with my progress!
+I'm a Computer Science student with experience in backend development using Java and Spring Boot. I've completed several bootcamps focused on these technologies and I'm always eager to learn more and improve my skills in the tech field. Feel free to explore my projects and follow along with my progress!
 
 <!--
 **RRNunes/RRNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
