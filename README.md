@@ -1,6 +1,6 @@
 # Hello, I'm Katyanne Roberta Nunes 👋
 
-Currently pursuing a degree in Computer Science, with a focus on backend development using Java and the Spring Framework. I am familiar with tools such as Git, JUnit, PostgreSQL, Maven, and Gradle, and I am seeking my first professional opportunity to apply my knowledge in real-world projects. Committed to continuous learning and contributing to collaborative teams.
+Currently pursuing a degree in Computer Science, with a focus on backend development using Java and the Spring Framework. I am familiar with tools such as Git, PostgreSQL, Maven, and Gradle, and I am seeking my first professional opportunity to apply my knowledge in real-world projects. Committed to continuous learning and contributing to collaborative teams.
 
 <!--
 **RRNunes/RRNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
