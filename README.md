@@ -1,19 +1,19 @@
 #  Olá! Eu sou a Katyanne Nunes
 
-Estudante de Ciência da Computação | Desenvolvedora Backend em formação  
-Java | Spring Boot | PostgreSQL | APIs REST  
-Explorando o ecossistema Salesforce como Dev/Admin  
-Foco em projetos práticos, boas práticas de código e aprendizado contínuo
+- Estudante de Ciência da Computação | Desenvolvedora Backend em formação  
+- Java | Spring Boot | PostgreSQL | APIs REST  
+- Explorando o ecossistema Salesforce como Dev/Admin  
+- Foco em projetos práticos, boas práticas de código e aprendizado contínuo
 
 Confira meu portfólio: [rrnunes.github.io/portfolio](https://rrnunes.github.io/portfolio)  
 Conecte-se comigo no Trailhead: [salesforce.com/trailblazer/katyannenunes](https://www.salesforce.com/trailblazer/katyannenunes)
 
 #  Hi there! I'm Katyanne Nunes
 
-Computer Science student | Aspiring Backend Developer  
-Java | Spring Boot | PostgreSQL | REST APIs  
-Exploring the Salesforce ecosystem as Admin/Dev  
-Focused on hands-on projects, clean code, and continuous learning
+- Computer Science student | Aspiring Backend Developer  
+- Java | Spring Boot | PostgreSQL | REST APIs  
+- Exploring the Salesforce ecosystem as Admin/Dev  
+- Focused on hands-on projects, clean code, and continuous learning
 
 Check out my portfolio: [rrnunes.github.io/portfolio](https://rrnunes.github.io/portfolio)  
 Conecte-se comigo no Trailhead: [salesforce.com/trailblazer/katyannenunes](https://www.salesforce.com/trailblazer/katyannenunes)
