@@ -18,6 +18,12 @@ Conecte-se comigo no Trailhead: [salesforce.com/trailblazer/katyannenunes](https
 Check out my portfolio: [rrnunes.github.io/portfolio](https://rrnunes.github.io/portfolio)  
 Conecte-se comigo no Trailhead: [salesforce.com/trailblazer/katyannenunes](https://www.salesforce.com/trailblazer/katyannenunes)
 
+## Salesforce
+![Apex](https://img.shields.io/badge/Apex-Developer-blue)
+![LWC](https://img.shields.io/badge/LWC-Lightning_Web_Components-blueviolet)
+![Salesforce CLI](https://img.shields.io/badge/CLI-Salesforce-orange)
+![Flow](https://img.shields.io/badge/Flow-Automation-green)
+
 
 
 <!--
